@@ -1,1 +1,1 @@
-simple student recore management system using c++
+simple student record management system using c++
